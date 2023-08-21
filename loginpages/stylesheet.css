@@ -68,7 +68,10 @@ input{
 .noaccount > label{
     font-size: 2vh;
 }
-
+a{
+    font-size: 2vh;
+    color: #7b86c3;
+}
 .centre{
     display:flex;
     justify-content:center
